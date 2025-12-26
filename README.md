@@ -1,20 +1,17 @@
-![Banner Image](https://example.com/your-cyber-banner.jpg)
-<!-- Replace with a cybersecurity-themed banner, e.g., from Unsplash or create one with Canva -->
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Deppti👋
 
 🔒 **Cybersecurity Consultant** | Penetration Tester | Threat Analyst
 
 I'm passionate about securing digital assets, ethical hacking, and helping organizations build resilient defenses against evolving threats.
 
 ## About Me
-- 🌍 Based in [Your Location]
+- 🌍 Based in Bay Area, CA, USA
 - 💼 Specializing in vulnerability assessments, incident response, and compliance (NIST, GDPR, ISO 27001)
 - 📚 Currently learning [e.g., advanced malware reverse engineering or cloud security]
 - 🎯 Goal: Contribute to open-source security tools and consult on zero-trust architectures
 
 ## Skills & Tools
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-569A31?logo=kali-linux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Expert-1679A7?logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Expert-FF6600?logo=burp-suite)
@@ -36,8 +33,8 @@ I'm passionate about securing digital assets, ethical hacking, and helping organ
 - 📝 [Phishing Simulation Toolkit](https://github.com/yourusername/phishing-tool) - Educational mock campaigns
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/deepti-padihary/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dmpadihary@gmail.com)
+
 
 Thanks for visiting! 🚀
