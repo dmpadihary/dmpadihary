@@ -31,6 +31,7 @@ She has completed her MBA in IT Business Management specializing in Information 
 <!-- ![CEH Badge](https://images.credly.com/your-badge-image-url.png) -->
 [![Credly Badge](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/aaa0cca5-fc05-4baa-8138-c34431e94b40/public_url)
 [![PMP Badge](https://images.credly.com/size/110x110/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob)](https://www.credly.com/badges/32760942-3dcc-45a9-a316-0145b79b64cb/public_url)
+[![Cisco Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/3925ddd2-1e70-43df-a937-8a8a31602a77/public_url)
 
 ## Key Projects
 - 🔍 [Vulnerability Scanner Automation](https://github.com/yourusername/vuln-scanner) - Python script using Nmap and OpenVAS
