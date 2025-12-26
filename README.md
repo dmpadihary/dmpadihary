@@ -1,12 +1,15 @@
 # Hi there, I'm Deppti👋
 
-🔒 **Cybersecurity Consultant** | Penetration Tester | Threat Analyst
+🔒 **Cybersecurity Consultant** |Consultant| Project Manager | Scrum Master| Quality Assurance | PMP®| CSM®I CSPO®|MBA| 
 
-I'm passionate about securing digital assets, ethical hacking, and helping organizations build resilient defenses against evolving threats.
+Deepti has over 7 years' experience in Project Management, Consulting and as a QA professional with a proven track record of working in global cross-functional teams and delivering projects in Agile and hybrid methodologies. Skilled in r stakeholder management, risk management, project governance and quality assurance across industries. 
+
+She has completed her MBA in IT Business Management specializing in Information Technology and Business Management from Symbiosis International University (SIU). She also holds a Bachelor of Engineering Degree in Telecommunication and IT.
 
 ## About Me
 - 🌍 Based in Bay Area, CA, USA
 - 💼 Specializing in vulnerability assessments, incident response, and compliance (NIST, GDPR, ISO 27001)
+- **Skills:** 📋 Software Project Management • 🏃 Agile Methodologies • ✅ Software Quality Assurance • 🤝 Stakeholder Management & ⚠️ Risk Management • ☁️ Cloud Applications
 - 📚 Currently learning [e.g., advanced malware reverse engineering or cloud security]
 - 🎯 Goal: Contribute to open-source security tools and consult on zero-trust architectures
 
@@ -25,7 +28,8 @@ I'm passionate about securing digital assets, ethical hacking, and helping organ
 [![CISSP](https://img.shields.io/badge/CISSP-Certified-yellow)](https://your-credly-link)
 
 <!-- Or use images from Credly: Right-click your badge on Credly > Copy image address -->
-![CEH Badge](https://images.credly.com/your-badge-image-url.png)
+<!-- ![CEH Badge](https://images.credly.com/your-badge-image-url.png) -->
+[![Credly Badge](https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/aaa0cca5-fc05-4baa-8138-c34431e94b40/public_url)
 
 ## Key Projects
 - 🔍 [Vulnerability Scanner Automation](https://github.com/yourusername/vuln-scanner) - Python script using Nmap and OpenVAS
